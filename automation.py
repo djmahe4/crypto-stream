@@ -1,6 +1,7 @@
 import requests
 #import schedule
 import time
+os.popen("pip install sklearn")
 from sklearn.linear_model import LinearRegression
 import numpy as np
 import json

@@ -1,6 +1,6 @@
 import requests
 #import schedule
-import time
+import time,os
 os.popen("pip install sklearn")
 from sklearn.linear_model import LinearRegression
 import numpy as np

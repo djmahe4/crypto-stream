@@ -1,5 +1,5 @@
 import requests
-import schedule
+#import schedule
 import time
 from sklearn.linear_model import LinearRegression
 import numpy as np
